@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Robinson-Devon
+- 👋 Hi, I’m @robdvon
 - 👀 I’m interested in ... robots and space!
-- 🌱 I’m currently learning ... Java and all tings programming. 
+- 🌱 I’m currently learning ... Java and all things programming. 
 - 💞️ I’m looking to collaborate on ... anything to help me code better.
 - 📫 How to reach me ... @robdvon on Slack or Chime.
 
